@@ -1,17 +1,3 @@
-Aquí tienes el **README final actualizado para tu portfolio**, con:
-
-* Swagger
-* GlobalExceptionHandler
-* arquitectura por feature
-* tu **email y GitHub**
-* escrito de forma profesional para recruiters
-
-Un README bien estructurado ayuda a que alguien entienda tu proyecto rápidamente y mejora la primera impresión del repositorio, algo clave cuando se usa GitHub como portfolio. ([Readmecodegen][1])
-
-Puedes copiarlo directamente a `README.md`.
-
----
-
 # 🎬 Cinema Reservation API
 
 API REST desarrollada con **Spring Boot** que implementa un sistema completo de **reservas de asientos para un cine**.
